@@ -37,13 +37,16 @@ Go to the project directory
 ## flow Charts
 
 - Authentication  phase-1 
-![plot](access control phase1.PNG)
+
+![App Screenshot](access control phase1.PNG)
 
 - Aunthentication phase-2 
-![plot](access control phase2.PNG)
+
+![App Screenshot](access control phase2.PNG)
 
 - Access control 
-![plot](accesscontrol.PNG)
+
+![App Screenshot](accesscontrol.PNG)
 
 ## Demo
 
