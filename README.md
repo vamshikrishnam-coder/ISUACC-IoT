@@ -38,7 +38,7 @@ Go to the project directory
 
 - Authentication  phase-1 
 
-![App Screenshot](access control phase1.PNG)
+![App Screenshot]('access control phase1.PNG')
 
 - Aunthentication phase-2 
 
