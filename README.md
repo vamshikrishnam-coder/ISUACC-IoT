@@ -32,6 +32,7 @@ Go to the project directory
 - it is the simple hash function 
 #### [encryption](encoder.m) and [decryption](decoder.m)
 - they are data encryption and decryption functions 
+- it it is a symentric key encryption and decryption
 
 
 ## Demo
