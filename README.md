@@ -34,6 +34,10 @@ Go to the project directory
 - they are data encryption and decryption functions 
 - it it is a symentric key encryption and decryption
 
+## Demo
+
+![App Screenshot](ss.PNG)
+
 ## flow Charts
 
 - Authentication  phase-1 
@@ -48,6 +52,3 @@ Go to the project directory
 
 ![App Screenshot](accesscontrol.PNG)
 
-## Demo
-
-![App Screenshot](ss.PNG)
